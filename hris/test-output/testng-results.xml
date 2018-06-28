@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19611" started-at="2018-06-28T05:51:47Z" finished-at="2018-06-28T05:52:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19611" started-at="2018-06-28T05:51:47Z" finished-at="2018-06-28T05:52:06Z">
+      <class name="hris.Testhris">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:hris.Testhris@8bd1b6a]" name="startBrowser" is-config="true" duration-ms="6276" started-at="2018-06-28T05:51:47Z" finished-at="2018-06-28T05:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="submitlogin()[pri:0, instance:hris.Testhris@8bd1b6a]" name="submitlogin" duration-ms="6916" started-at="2018-06-28T05:51:53Z" finished-at="2018-06-28T05:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitlogin -->
+        <test-method status="PASS" signature="checkTime()[pri:1, instance:hris.Testhris@8bd1b6a]" name="checkTime" duration-ms="6386" started-at="2018-06-28T05:52:00Z" finished-at="2018-06-28T05:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTime -->
+      </class> <!-- hris.Testhris -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
